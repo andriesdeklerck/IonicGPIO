@@ -69,8 +69,8 @@ function onSubscribed() {
 
 const Tab1: React.FC = () => {
 
-  var [buttonKleur1] = useState(false);
-  var [buttonKleur2] = useState(false);
+  const [buttonKleur1] = useState("red");
+  const [buttonKleur2] = useState("green");
 
   return (
     <IonPage>
