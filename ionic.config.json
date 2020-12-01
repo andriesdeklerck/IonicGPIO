@@ -1,0 +1,8 @@
+{
+  "name": "GPIO",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "0585b19c"
+}
